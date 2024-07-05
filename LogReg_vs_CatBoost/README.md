@@ -2,7 +2,7 @@ This is solution for this [Kaggle competition](https://www.kaggle.com/c/advanced
 ![](assets/exmpls.gif)
 
 # Description
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Viktor-Sok/Image_Editing_StyleCLIP_Optimization/blob/main/notebooks/styleCLIP_optimization_playground.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Viktor-Sok/Classic_ML_Algorithms/blob/main/LogReg_vs_CatBoost/notebooks/Churn_Prediction_Kaggle.ipynb)
 
 1. Thorough EDA is conducted
 2. Made an attempt at some featur engineering
